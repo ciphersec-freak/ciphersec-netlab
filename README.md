@@ -36,7 +36,7 @@ $ python ciphersec_netlab.py
 
 ---
 
-3. RP Spoofing
+3. ARP Spoofing
    - Functionality: Executes ARP spoofing attacks, enabling interception of network traffic or redirection of network connections for various purposes.
 
 ---
