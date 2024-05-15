@@ -65,6 +65,8 @@ $ python ciphersec_netlab.py
    - Functionality: Scans a range of IP addresses to identify active hosts using ICMP ping requests.
 
 ---
+![ciphersec-netlab](https://github.com/ciphersec-freak/ciphersec-netlab/assets/77842676/8720c380-56a0-456c-a395-179aca5f726e)
+
 
 ### Overview:
 
