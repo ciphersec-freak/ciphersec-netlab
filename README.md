@@ -16,7 +16,6 @@ $ apt-get install tcpdump
 $ git clone https://github.com/ciphersec-freak/ciphersec-netlab.git
 $ cd ciphersec-netlab
 $ pip install scapy
-$ git pull
 $ python ciphersec_netlab.py
 ```
 
