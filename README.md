@@ -10,9 +10,9 @@ $ pkg install git
 $ pkg install figlet
 $ apt install lolcat
 $ apt install python
-$ sudo apt-get install macchanger
-$ sudo apt-get install tor torsocks   //if it throw error kindly manually install the torsock from this link :- https://gitlab.torproject.org/tpo/core/torsocks
-$ sudo apt-get install tcpdump
+$ apt-get install macchanger
+$ apt-get install tor torsocks   //if it throw error kindly manually install the torsock from this link :- https://gitlab.torproject.org/tpo/core/torsocks
+$ apt-get install tcpdump
 $ git clone https://github.com/ciphersec-freak/ciphersec-netlab.git
 $ cd ciphersec-netlab
 $ pip install scapy
